@@ -1,6 +1,5 @@
-poul-logo
+POuL Logo
 =========
-We are basically designing a new version of the classic logo of Politecnico Open unix Labs
+Here in this repo you can find all the logo stuff for Politecnico Open unix Labs.
 
-vectorial format: svg
-(best viewed in Inkscape)
+Current version: January 2015 revision
